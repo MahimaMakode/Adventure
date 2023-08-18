@@ -151,6 +151,7 @@ body h3{
     /* background-color: red; */
     position: absolute;
     margin-top: 10%;
+    /* background-color: red; */
 }
 .part1{
     width: 100%;
@@ -400,6 +401,7 @@ body h3{
     }
     #equipment{
         height: fit-content;
+        overflow-x: hidden;
     }
     .part1{
         flex-direction: column-reverse;
@@ -452,7 +454,7 @@ body h3{
         #equipment1{
         height: fit-content;
         position: absolute;
-        top: 213%;
+        top: 225%;
     }
     .part2{
         flex-direction: column;
@@ -502,13 +504,13 @@ body h3{
     #equipment2{
         /* background-color: red ; */
         position: absolute;
-        top: 329%;
+        top: 349%;
         height: fit-content;
     }
     #footer{
         /* height: fit-content; */
         position: absolute;
-        top: 430%;
+        top: 460%;
     }
     .f1 p{
         line-height: 1.5rem;
@@ -522,7 +524,7 @@ body h3{
         position: absolute;
         top: 130%;
     }
-     #main .contain h4{
+    #main .contain h4{
         position: relative;
         top: 25%;
         left: 45%;
