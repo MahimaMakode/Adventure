@@ -522,4 +522,9 @@ body h3{
         position: absolute;
         top: 130%;
     }
+     #main .contain h4{
+        position: relative;
+        top: 25%;
+        left: 45%;
+    }
 }
