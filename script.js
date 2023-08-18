@@ -71,3 +71,9 @@ gsap.from("#equipment2 .img4",{
         end:"top 60%",
     }
 })
+gsap.from("#main .contain h4",{
+    y:-20,
+    duration:.7,
+    yoyo:-1,
+    repeat:-1,
+})
